@@ -1,4 +1,6 @@
 this is first line
+<<<<<<< HEAD
 f1:secondline
+=======
 f2:second line
-
+>>>>>>> f2
